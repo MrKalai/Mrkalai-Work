@@ -1,24 +1,31 @@
-.elementor-31 .elementor-element.elementor-element-7153d86 > .elementor-container{max-width:1019px;}.elementor-31 .elementor-element.elementor-element-7153d86 > .elementor-background-overlay{background-image:url("http://localhost/Mrkalai-Work/wp-content/uploads/2020/08/227396-Duelyst-concept_art-artwork-video_games-digital_art-Digital_2D.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;opacity:0.42;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-31 .elementor-element.elementor-element-7153d86{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;overflow:visible;}.elementor-31 .elementor-element.elementor-element-79922a4{text-align:left;}.elementor-31 .elementor-element.elementor-element-79922a4 .elementor-heading-title{color:#6F6F6F;font-size:36px;line-height:1.3em;}.elementor-31 .elementor-element.elementor-element-79922a4 > .elementor-widget-container{margin:200px 0px 0px 0px;}.elementor-31 .elementor-element.elementor-element-9eaaf2b .gradient_button{padding:15px 40px 15px 40px;}.elementor-31 .elementor-element.elementor-element-9eaaf2b > .elementor-widget-container{margin:26px 0px 150px 0px;}.elementor-bc-flex-widget .elementor-31 .elementor-element.elementor-element-a1420e2.elementor-column .elementor-column-wrap{align-items:flex-end;}.elementor-31 .elementor-element.elementor-element-a1420e2.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:flex-end;align-items:flex-end;}.elementor-31 .elementor-element.elementor-element-a1420e2.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:center;}.elementor-31 .elementor-element.elementor-element-f6e5bce{--lottie-container-width:100%;--lottie-container-max-width:100%;}.elementor-31 .elementor-element.elementor-element-f6e5bce > .elementor-widget-container{margin:0px 0px -18px 0px;}@media(max-width:767px){.elementor-31 .elementor-element.elementor-element-79922a4 > .elementor-widget-container{margin:52px 0px 0px 0px;}.elementor-31 .elementor-element.elementor-element-9eaaf2b > .elementor-widget-container{margin:0px 0px 0px 0px;}}@media(min-width:1025px){.elementor-31 .elementor-element.elementor-element-7153d86 > .elementor-background-overlay{background-attachment:scroll;}}/* Start custom CSS for section, class: .elementor-element-7153d86 */.gradient {
-    background: linear-gradient(149deg, #2193b0, #6dd5ed, #ac6ded, #edbb6d);
-    background-size: 800% 800%;
+.elementor-31 .elementor-element.elementor-element-7153d86 > .elementor-container{max-width:1019px;}.elementor-31 .elementor-element.elementor-element-7153d86 > .elementor-background-overlay{background-image:url("http://localhost/Mrkalai-Work/wp-content/uploads/2020/08/227396-Duelyst-concept_art-artwork-video_games-digital_art-Digital_2D.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;opacity:0.7;}.elementor-31 .elementor-element.elementor-element-7153d86{overflow:visible;}.elementor-31 .elementor-element.elementor-element-79922a4{text-align:left;}.elementor-31 .elementor-element.elementor-element-79922a4 .elementor-heading-title{color:#6F6F6F;font-size:36px;line-height:1.3em;}.elementor-31 .elementor-element.elementor-element-79922a4 > .elementor-widget-container{margin:200px 0px 0px 0px;}.elementor-31 .elementor-element.elementor-element-9eaaf2b .gradient_button{padding:15px 40px 15px 40px;}.elementor-31 .elementor-element.elementor-element-9eaaf2b > .elementor-widget-container{margin:26px 0px 150px 0px;}.elementor-bc-flex-widget .elementor-31 .elementor-element.elementor-element-a1420e2.elementor-column .elementor-column-wrap{align-items:flex-end;}.elementor-31 .elementor-element.elementor-element-a1420e2.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:flex-end;align-items:flex-end;}.elementor-31 .elementor-element.elementor-element-a1420e2.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:center;}.elementor-31 .elementor-element.elementor-element-f6e5bce{--lottie-container-width:100%;--lottie-container-max-width:100%;}.elementor-31 .elementor-element.elementor-element-f6e5bce > .elementor-widget-container{margin:0px 0px -18px 0px;}.elementor-31 .elementor-element.elementor-element-cf8987f{overflow:visible;}@media(max-width:767px){.elementor-31 .elementor-element.elementor-element-79922a4 > .elementor-widget-container{margin:52px 0px 0px 0px;}.elementor-31 .elementor-element.elementor-element-9eaaf2b > .elementor-widget-container{margin:0px 0px 0px 0px;}}@media(min-width:1025px){.elementor-31 .elementor-element.elementor-element-7153d86 > .elementor-background-overlay{background-attachment:scroll;}}/* Start custom CSS for section, class: .elementor-element-7153d86 */.gradient_bg {
+    
+    background: linear-gradient(198deg, #2193b0, #6dd5ed, #eced6d, #edb56d, #c86ded);
+    background-size: 1000% 1000%;
 
-    -webkit-animation: AnimationName 9s ease infinite;
-    -moz-animation: AnimationName 9s ease infinite;
-    animation: AnimationName 9s ease infinite;
+    -webkit-animation: game 18s ease infinite;
+    -moz-animation: game 18s ease infinite;
+    -o-animation: game 18s ease infinite;
+    animation: game 18s ease infinite;
 }
 
-@-webkit-keyframes AnimationName {
-    0%{background-position:0% 90%}
-    50%{background-position:100% 11%}
-    100%{background-position:0% 90%}
+@-webkit-keyframes game {
+    0%{background-position:0% 86%}
+    50%{background-position:100% 15%}
+    100%{background-position:0% 86%}
 }
-@-moz-keyframes AnimationName {
-    0%{background-position:0% 90%}
-    50%{background-position:100% 11%}
-    100%{background-position:0% 90%}
+@-moz-keyframes game {
+    0%{background-position:0% 86%}
+    50%{background-position:100% 15%}
+    100%{background-position:0% 86%}
 }
-@keyframes AnimationName {
-    0%{background-position:0% 90%}
-    50%{background-position:100% 11%}
-    100%{background-position:0% 90%}
+@-o-keyframes game {
+    0%{background-position:0% 86%}
+    50%{background-position:100% 15%}
+    100%{background-position:0% 86%}
+}
+@keyframes game {
+    0%{background-position:0% 86%}
+    50%{background-position:100% 15%}
+    100%{background-position:0% 86%}
 }/* End custom CSS */
